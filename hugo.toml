@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+[module]
+    # this is needed when you fetch the theme as a submodule to your repo.
+    # replacements = "github.com/panr/hugo-theme-terminal/4 -> themes/terminal"
+[[module.imports]]
+    path = 'terminal'
+
+[languages.en.menu]
+    [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts"
+    [[languages.en.menu.main]]
+        identifier = "software"
+        name = "Software"
+        url = "/pages"
