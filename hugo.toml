@@ -11,7 +11,7 @@ title = 'My New Hugo Site'
 [languages.en.menu]
     [[languages.en.menu.main]]
         identifier = "posts"
-        name = "Posts"
+        name = "Posts   "
         url = "/posts"
     [[languages.en.menu.main]]
         identifier = "software"

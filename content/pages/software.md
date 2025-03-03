@@ -8,8 +8,13 @@ tags = ["page", "software"]
 
 ## Generic
 
+* **Computer**
+  * [Logitech Unifying]()
 * **Package Managers**
   * [Chocolatey](https://chocolatey.org/)
+* **Media**
+  * [FFMPEG]()
+  * [VLC]()
 
 ## Development
 
@@ -17,10 +22,19 @@ tags = ["page", "software"]
   * [Git](https://git-scm.com/)
 * **Languages**
   * [Go](https://go.dev/)
-  * [Python]()
+  * [Python](https://www.python.org/)
+* **IDE**
+  * [VS Code]()
+* **Graphics**
+  * [Blender]()
 * **Game Engines**
   * [Unity](https://unity.com/)
   * [Unreal](https://www.unrealengine.com/en-US)
+* **Virtualization**
+  * [Docker](https://www.docker.com/)
+  * [Helm](https://helm.sh/)
+  * [Kubernetes](https://kubernetes.io/)
+  * [Proxmox](https://www.proxmox.com/)
 * **Web**
   * [Sass](https://sass-lang.com/)
   * **Frameworks**
