@@ -23,6 +23,9 @@ tags = ["page", "software"]
 * **Languages**
   * [Go](https://go.dev/)
   * [Python](https://www.python.org/)
+  * C/C++
+    * [Msys2](https://www.msys2.org/) [Guide](https://www.youtube.com/watch?v=oC69vlWofJQ)
+    * [Clang]()
 * **IDE**
   * [VS Code]()
 * **Graphics**

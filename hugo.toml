@@ -17,3 +17,6 @@ title = 'My New Hugo Site'
         identifier = "software"
         name = "Software"
         url = "/pages"
+
+[markup.goldmark.renderer]
+      unsafe = true
